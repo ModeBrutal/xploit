@@ -29,9 +29,7 @@ Framework ini membutuhkan Python 3.x dan beberapa dependensi. Untuk menginstalny
 ```bash
 pip install requests whois dns.resolver colorama
 
-### 4. **Tambahkan `LICENSE`**
-Jangan lupa untuk menambahkan lisensi di repository untuk memberikan hak kepada pengguna tentang cara menggunakan kode kamu. Berikut adalah template lisensi **MIT** yang bisa kamu pakai di file `LICENSE`:
-
+###
 ```plaintext
 MIT License
 
