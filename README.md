@@ -1,4 +1,4 @@
-[tampilan] (https://raw.githubusercontent.com/ModeBrutal/xploit/refs/heads/main/Screenshot_2025-01-28-11-19-24-431_com.termux.jpg) 
+![tampilan] (https://raw.githubusercontent.com/ModeBrutal/xploit/refs/heads/main/Screenshot_2025-01-28-11-19-24-431_com.termux.jpg) 
 
 # Xploit Framework
 
